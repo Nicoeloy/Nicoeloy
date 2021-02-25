@@ -6,8 +6,8 @@
 * 🚀 I’m currently working on **Repair&Ride** (Rails App)
 * 📝 I’m currently learning **React**
 * ⚡ I’m looking for a new challenge in **Tech**
-* 📧 How to reach me: <louisnicolas.eloy@student.ihecs.be> <https://www.linkedin.com/in/louis-nicolas-eloy-55b8bb142/>
-
+* 📧 How to reach me: <louisnicolas.eloy@student.ihecs.be>
+* 💬 How to connect with me: <a href="https://www.linkedin.com/in/louis-nicolas-eloy-55b8bb142/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 
 <br>
 
@@ -43,4 +43,11 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
+
+#### Digital Marketing Software
+
+<p align="left">
+  <a href="https://wordpress.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
