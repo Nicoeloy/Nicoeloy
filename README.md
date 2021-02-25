@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Nicoeloy/Nicoeloy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 #### 26 year old Belgian Full-Stack Web Developer
 
 
