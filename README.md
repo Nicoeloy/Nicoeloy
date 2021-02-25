@@ -6,7 +6,8 @@
 * 🚀 I’m currently working on **Repair&Ride** (Rails App)
 * 📝 I’m currently learning **React**
 * ⚡ I’m looking for a new challenge in **Tech**
-* 📧 How to reach me: <louisnicolas.eloy@student.ihecs.be>
+* 📧 How to reach me: <louisnicolas.eloy@student.ihecs.be> <https://www.linkedin.com/in/louis-nicolas-eloy-55b8bb142/>
+
 
 <br>
 
