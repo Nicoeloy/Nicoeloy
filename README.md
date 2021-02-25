@@ -19,7 +19,8 @@
 
 #### Frameworks/Systems
 <p align="left">
-  <a href="https://www.rubyguides.com/ruby-tutorial/object-oriented-programming/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oop/oop-original.svg" alt="OOP" width="40" height="40"/> </a>
+  <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
+  <a href="https://jquery.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/> </a>
 </p>
 
 
