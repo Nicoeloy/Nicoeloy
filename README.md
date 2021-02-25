@@ -13,9 +13,9 @@
 
 ### 🌎 My Languages 🌎
 
-* French : C2
-* English : C1
-* Dutch: B2
+* **French : C2**
+* **English : C1**
+* **Dutch: B2**
 
 <br>
 
