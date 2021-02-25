@@ -48,6 +48,6 @@
 #### Digital Marketing Software
 
 <p align="left">
-  <a href="https://wordpress.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original-wordmark.svg" alt="rails" width="40" height="40"/> </a>
+  <a href="https://wordpress.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-line.svg" alt="wordpress" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
