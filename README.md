@@ -5,11 +5,15 @@
 
 * 🚀 I’m currently working on **Repair&Ride** (Rails App)
 * 📝 I’m currently learning **React**
-* 💻 I’m looking for a new challenge in **Tech**
+* ⚡ I’m looking for a new challenge in **Tech**
 * 📧 How to reach me: <louisnicolas.eloy@student.ihecs.be>
+
+### 💻 Programming Languages 💻
+
+* javascript
 
 ### 🌎 My Languages 🌎
 
-* :fr: French : C2
-* :gb: English : C1
-* :nl: : B2
+* French : C2
+* English : C1
+* Dutch: B2
