@@ -1,11 +1,10 @@
 ### 👋 Hi I am Nico 👋
 
-#### 26 year old Belgian Full-Stack Web Developer with a Digital Marketing background
+#### 27 year old Belgian Full-Stack Web Developer with a Digital Marketing background
 
 
-* 🚀 I’m currently working on **Repair&Ride** (Rails App)
-* 📝 I’m currently learning **React**
-* ⚡ I’m looking for a new challenge in **Tech**
+* 🚀 I’m currently working at a **Keyrus' client**
+* 📝 I’m currently learning **Python & PySpark**
 * 📧 How to reach me: <louisnicolas.eloy@student.ihecs.be>
 * 💬 How to connect with me: <a href="https://www.linkedin.com/in/louis-nicolas-eloy-55b8bb142/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 
