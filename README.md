@@ -45,10 +45,3 @@
 </p>
 
 <br>
-
-<details>
-<summary>:star: GitHub Stats</summary>
-
-  <img align="left" alt="Aurrou's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nicoeloy&show_icons=true&hide_border=true" />
-
-</details>
