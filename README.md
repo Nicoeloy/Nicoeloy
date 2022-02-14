@@ -3,7 +3,7 @@
 #### 27 year old Belgian Full-Stack Web Developer
 
 
-* 🚀 I’m looking for a new job in tech
+* 🚀 I’m looking for a **new job in tech**
 * 📝 I’m currently doing some projects in **React and Node.js**
 * 📧 How to reach me: <nicolas.eloy.heymans@google.com>
 * 💬 How to connect with me: <a href="https://www.linkedin.com/in/nicolas-eloy-55b8bb142/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
