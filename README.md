@@ -1,6 +1,6 @@
 ### 👋 Hi I am Nico 👋
 
-#### 27 year old Belgian Full-Stack Web Developer with a Digital Marketing background
+#### 27 year old Belgian Full-Stack Web Developer
 
 
 * 🚀 I’m looking for a new job in tech
