@@ -1,20 +1,49 @@
-### 👋 Hi I am Nico 👋
+# 👋 Hi, I'm Nicolas Eloy  
 
-#### BI & Data Engineer | Microsoft Azure 🚀
+### 💡 BI & Data Engineer | Microsoft Azure Ecosystem  
 
-* 📝 I’m currently doing some projects in **Python, SQL and Microsoft Azure**
-* 📧 How to reach me: <nicolas.eloy.heymans@google.com>
-* 💬 How to connect with me: <a href="https://www.linkedin.com/in/nicolas-eloy-55b8bb142/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+🚀 Passionate about data engineering, analytics, and modern cloud architectures, I specialize in building efficient, scalable data pipelines and translating business needs into robust technical solutions.  
 
-<br>
+---
 
-### 🌎 My Languages 🌎
+## 🧱 Current Focus  
+- 🔹 Working as **Senior Data Engineer** at the **National Lottery (Belgium)**  
+- 🔹 Contributing to the migration of a medallion-based data platform built on **Azure**  
+- 🔹 Building semantic models and CI/CD data pipelines with **DBT**, **Microsoft Fabric**, and **Azure Synapse**
 
-* **French : C2**
-* **English : C1**
-* **Dutch : B2**
-* **Spanish : B2**
+---
 
-<br>
+## 🧰 Tech Stack & Tools  
+**Languages & Frameworks**  
+`Python` · `SQL` · `Spark`  
 
-I am a results-driven Business Intelligence Consultant with five years of experience in data engineering, ETL processes, and reporting. Proficient in Microsoft Azure, Python, SQL, Git and Power BI, I specialize in building efficient data pipelines and delivering actionable insights. For clients, I optimize cloud infrastructure and create tailored solutions for master and transactional data distribution, empowering businesses to harness advanced analytics for better decision-making.
+**Data Engineering & Cloud**  
+`Microsoft Fabric` · `Azure Synapse` · `DBT` · `Azure DevOps` · `CI/CD`  
+
+**Data Analytics & Visualization**  
+`Power BI` · `Data Modeling` · `Data Governance`  
+
+---
+
+## 🧩 Background  
+With 5+ years of experience in **data engineering** and **business intelligence**, I bring a unique blend of technical expertise and business understanding.  
+I previously worked as a BI Consultant and Data Engineer in the **automotive** and **industrial** sectors, designing modern data architectures and implementing data quality frameworks.  
+
+🎓 *Master’s in Advertising & Digital Marketing (IHECS, Brussels)*  
+🎓 *Full-Stack Web Developer Certification (Le Wagon Brussels)*  
+
+---
+
+## 🌍 Languages  
+🇫🇷 French (C2) | 🇬🇧 English (C1) | 🇪🇸 Spanish (B2) | 🇳🇱 Dutch (B2)  
+
+---
+
+## 📫 Contact  
+📧 **nicolas.eloy.heymans@gmail.com**  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/nicolas-eloy-bi)  
+🌐 [Portfolio / CV (PDF)](https://github.com/NicoEloy)  
+
+---
+
+> *“Turning data into clear, actionable insights — bridging technology and business to make analytics meaningful.”*
