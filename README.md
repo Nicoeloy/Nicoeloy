@@ -1,5 +1,3 @@
-Nicolas Eloy  
-
 ### 💡 BI & Data Engineer | Microsoft Azure Ecosystem  
 
 🚀 Passionate about data engineering, analytics, and modern cloud architectures, I specialize in building efficient, scalable data pipelines and translating business needs into robust technical solutions.  
