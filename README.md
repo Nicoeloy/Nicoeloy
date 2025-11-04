@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nicolas Eloy  
+Nicolas Eloy  
 
 ### 💡 BI & Data Engineer | Microsoft Azure Ecosystem  
 
