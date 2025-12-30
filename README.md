@@ -31,7 +31,6 @@ I previously worked as a BI Consultant and Data Engineer in the **automotive** a
 ---
 
 ## 📫 Contact  
-📧 **nicolas.eloy.heymans@gmail.com**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nicolas-eloy-bi)  
 🌐 [Portfolio / CV (PDF)](https://github.com/NicoEloy)  
 
