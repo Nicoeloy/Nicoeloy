@@ -1,13 +1,6 @@
-### 💡 BI & Data Engineer | Microsoft Azure Ecosystem  
+### 💡 Data Engineer | Analytics
 
 🚀 Passionate about data engineering, analytics, and modern cloud architectures, I specialize in building efficient, scalable data pipelines and translating business needs into robust technical solutions.  
-
----
-
-## 🧱 Current Focus  
-- 🔹 Working as **Senior Data Engineer** at the **National Lottery (Belgium)**  
-- 🔹 Contributing to the migration of a medallion-based data platform built on **Azure**  
-- 🔹 Building semantic models and CI/CD data pipelines with **DBT**, **Microsoft Fabric**, and **Azure Synapse**
 
 ---
 
